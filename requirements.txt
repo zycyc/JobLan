@@ -1,0 +1,9 @@
+langchain
+langgraph
+pandas
+huggingface_hub
+mlx_lm
+langchain_community
+linkedin_api
+pypdf
+pathlib
