@@ -38,21 +38,13 @@ pip install -r requirements.txt
 ```
 
 4. Configure your settings:
-Edit config.py with your LinkedIn credentials and LLM preferences
+Edit config.py with your LinkedIn credentials, LLM preferences, and other settings
 
 ## Usage
 
-1. Initialize your profile:
 ```bash
 python main.py
 ```
-
-## Configuration
-
-Edit `config.py` to customize:
-- LinkedIn authentication
-- LLM model settings
-- Output file locations
 
 ## TODO
 
